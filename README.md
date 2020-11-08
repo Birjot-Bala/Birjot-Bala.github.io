@@ -1,3 +1,3 @@
 # Birjot-Bala.github.io
 
-Portfolio website.
+Visit the website at [Birjot Bala](https://birjot-bala.github.io/).
